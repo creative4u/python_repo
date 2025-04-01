@@ -1,1 +1,1 @@
-A weather application in Python fetches real-time weather data using APIs like OpenWeather. It takes user input for a city and displays temperature, Wind Speed in Miles Per Hour (mph). The app is built using the requests library to fetch data and also i have added text to speech functionality to this application . It helps users check the weather easily from their desktop or terminal.
+Python based projects
